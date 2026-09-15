@@ -42,7 +42,7 @@ The project focuses on the following questions:
 
 ## Dataset
 
-The project uses the **Bangalore Rapido Ride Services Dataset** sourced from Kaggle.
+The project uses the **[Bangalore Rapido Ride Services Dataset](https://www.kaggle.com/datasets/vishaldeoprasad/bangalore-rapido-ride-services-dataset)** sourced from Kaggle.
 
 The dataset contains ride-level information such as:
 
