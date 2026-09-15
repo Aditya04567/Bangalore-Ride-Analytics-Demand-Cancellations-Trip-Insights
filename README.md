@@ -19,7 +19,7 @@ The analysis focuses on understanding:
 
 The objective is to convert ride-level data into clear business insights and identify areas that could be explored further from an operational and marketplace perspective.
 
-> **Note:** This is a student portfolio project created to demonstrate Business Analysis, SQL, Python, Statistics, and Power BI skills. It is not internal company analysis.
+> **Note:** This project created to demonstrate Business Analysis, SQL, Python, Statistics, and Power BI skills. It is not internal company analysis.
 
 ---
 
